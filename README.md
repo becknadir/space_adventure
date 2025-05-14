@@ -1,3 +1,7 @@
+https://github.com/user-attachments/assets/9c4bbb2f-10e9-458b-9c84-dcb7bf74bf89
+Uploading space_adventure.mp4…
+
+
 # Beko's Space Adventure
 
 A simple space shooter game built with Pygame where you control a spaceship and fight against colorful enemy ships.
@@ -19,8 +23,8 @@ A simple space shooter game built with Pygame where you control a spaceship and 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/bekos-space-adventure.git
-   cd bekos-space-adventure
+   git clone https://github.com/becknadir/space_adventure.git
+   cd space_adventure
    ```
 
 2. Install the required dependencies:
