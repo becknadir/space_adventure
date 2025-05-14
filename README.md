@@ -1,6 +1,4 @@
 https://github.com/user-attachments/assets/9c4bbb2f-10e9-458b-9c84-dcb7bf74bf89
-Uploading space_adventure.mp4…
-
 
 # Beko's Space Adventure
 
